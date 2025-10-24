@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vnfFqRl/YPsi3ED8PaAuryy+dtbHSOBhs8jUs1scbcc=",
+  "Source": "AuthCustomerAPI",
+  "BasePath": "_content/AuthCustomerAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
